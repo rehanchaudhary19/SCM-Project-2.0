@@ -1,2 +1,1 @@
-
-I am Rehan From G-15
+This is git command for second branch.
