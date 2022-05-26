@@ -1,1 +1,1 @@
-It is a git command for merging.
+Here,it is git command for merging.
